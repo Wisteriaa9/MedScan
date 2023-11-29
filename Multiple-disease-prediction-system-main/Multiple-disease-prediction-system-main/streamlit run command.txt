@@ -1,0 +1,8 @@
+streamlit run "C:\\Users\\HP\\Downloads\\Multiple-disease-prediction-system-main\\Multiple-disease-prediction-system-main\\multiple disease pred.py"
+
+
+pip install -U scikit-learn
+pip install streamlit-option-menu
+
+
+Custom Theme : #1C5A75 #b8e6f3 #31333F #FDFDFD
