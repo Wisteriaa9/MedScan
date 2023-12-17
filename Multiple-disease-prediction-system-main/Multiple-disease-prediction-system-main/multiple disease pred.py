@@ -43,7 +43,7 @@ if login_res :
         </style>
         """
         st.markdown(background_image_style, unsafe_allow_html=True)
-        st.markdown('<h1 style="font-size:vw; font-family:Times New Roman ; text-align: center; "> Welccome to MEDSCAN </h1>',unsafe_allow_html=True)
+        st.markdown('<h1 style="font-size:vw; font-family:Times New Roman ; text-align: center; "> Welcome to MEDSCAN </h1>',unsafe_allow_html=True)
         st.text("")  # Spacer
         st.markdown('<h3 style="color: black; text-align: center;width: 700px; background: rgba(255, 255, 255, 0.5);backdrop-filter: blur(10px);padding: 20px;border-radius: 10px;margin: 20px;"> A Multiple Disease Prediction System</h3>', unsafe_allow_html=True)
         st.text("")  # Spacer
