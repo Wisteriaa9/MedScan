@@ -83,3 +83,26 @@ Custom Theme
 | Example Color | ![#b8e6f3](https://via.placeholder.com/10/b8e6f3?text=+) #b8e6f3 |
 | Example Color | ![#31333F](https://via.placeholder.com/10/31333F?text=+) #31333F |
 | Example Color | ![#FDFDFD](https://via.placeholder.com/10/FDFDFD?text=+) #fdfdfd |
+
+## Screenshots 
+
+### Login 
+![image](https://github.com/Wisteriaa9/MedScan/assets/100563080/90397e2e-cdb1-4ad3-bcb2-5c8e81817864)
+
+### Home Page 
+![image](https://github.com/Wisteriaa9/MedScan/assets/100563080/032d4e69-6736-4a07-a045-8ae817018157)
+
+### Diabetes page 
+![image](https://github.com/Wisteriaa9/MedScan/assets/100563080/7a81cc36-0059-4e36-88f0-06d456f235fc)
+
+
+### Heart Disease page 
+![image](https://github.com/Wisteriaa9/MedScan/assets/100563080/ec0e18dd-31eb-42c3-9030-dedb5256b84d)
+
+### Parkinsons Disease page 
+![image](https://github.com/Wisteriaa9/MedScan/assets/100563080/2a11fe12-e214-4bcb-8368-fe2e643ad7d3)
+
+
+
+
+
